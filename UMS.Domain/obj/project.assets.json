@@ -379,11 +379,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj",
       "projectName": "UMS.Domain",
-      "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj",
+      "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\obj\\",
+      "outputPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

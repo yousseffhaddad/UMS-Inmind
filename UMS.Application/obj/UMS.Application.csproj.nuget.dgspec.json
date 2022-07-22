@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Application\\UMS.Application.csproj": {}
+    "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Application\\UMS.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Application\\UMS.Application.csproj": {
+    "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Application\\UMS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Application\\UMS.Application.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Application\\UMS.Application.csproj",
         "projectName": "UMS.Application",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Application\\UMS.Application.csproj",
+        "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Application\\UMS.Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Application\\obj\\",
+        "outputPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj"
+              "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj"
               },
-              "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj"
+              "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj"
               },
-              "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Persistence\\UMS.Persistence.csproj": {
-                "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Persistence\\UMS.Persistence.csproj"
+              "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Persistence\\UMS.Persistence.csproj": {
+                "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Persistence\\UMS.Persistence.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj": {
+    "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj",
         "projectName": "UMS.Domain",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj",
+        "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -164,14 +164,14 @@
         }
       }
     },
-    "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj": {
+    "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
         "projectName": "UMS.Infrastructure.Abstraction",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
+        "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Persistence\\UMS.Persistence.csproj": {
+    "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Persistence\\UMS.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Persistence\\UMS.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Persistence\\UMS.Persistence.csproj",
         "projectName": "UMS.Persistence",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Persistence\\UMS.Persistence.csproj",
+        "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Persistence\\UMS.Persistence.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -238,8 +238,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj"
+              "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj"
               }
             }
           }

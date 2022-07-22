@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
+      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
       "projectName": "UMS.Infrastructure.Abstraction",
-      "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
+      "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\obj\\",
+      "outputPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B8/df2GBowsHp5TsKDNe70BzK2hLU2Cn1bpW8aBmBDuuNJ9IYgaATHtDu+69lHZKJAg4dFJYG1Zev3lti/MfRA==",
+  "dgSpecHash": "ssEJxyzLhZD549/PgTe+yZX+lA9eq/OYft1pe9h/7GHaM9HzEXHvgyPm1XxkxJ6BbKjDxEQpnspfz3sBGdF5aQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

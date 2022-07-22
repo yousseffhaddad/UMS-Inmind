@@ -57,7 +57,6 @@ public class EnrollStudentCommandHandler : IRequestHandler<EnrollStudentCommand,
         var response= await _repository.AddAsync(request.EnrollStudent);
         _emailService.SendEmail( user?.studentEmail ,user?.studentEmail, "Enrollment Successful","you have been enrolled successfully to the course"+course.courseName);
         return response;
-
-
+        
     }
 }

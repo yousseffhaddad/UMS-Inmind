@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s97P1IgA+9tICkl1XCU380MfamBykpi4ZsofwMrA56dE7TqS8DwxK0AVYtL/wAKwIBIgtv/bIFw+Uxk2+4usaw==",
+  "dgSpecHash": "MWvZ8jVghYXWF9UcmRsWSr5KcCPKQwXiZFiL6NAoS3LtrVSWu1XbqiWLMUg0tGjTozgQsNiAVNJsDlnsJfmb1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Persistence\\UMS.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Persistence\\UMS.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnet.scaffolding.12.0\\12.0.0\\microsoft.aspnet.scaffolding.12.0.12.0.0.nupkg.sha512",

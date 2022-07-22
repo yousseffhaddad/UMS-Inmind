@@ -32,3 +32,20 @@ C:\Users\user\RiderProjects\UMS - Serilog\UMS.Persistence\obj\Debug\net6.0\refin
 C:\Users\user\RiderProjects\UMS - Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.pdb
 C:\Users\user\RiderProjects\UMS - Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.genruntimeconfig.cache
 C:\Users\user\RiderProjects\UMS - Serilog\UMS.Persistence\obj\Debug\net6.0\ref\UMS.Persistence.dll
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\bin\Debug\net6.0\UMS.Persistence.deps.json
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\bin\Debug\net6.0\UMS.Persistence.runtimeconfig.json
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\bin\Debug\net6.0\UMS.Persistence.dll
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\bin\Debug\net6.0\UMS.Persistence.pdb
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\bin\Debug\net6.0\UMS.Domain.dll
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\bin\Debug\net6.0\UMS.Domain.pdb
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.AssemblyInfo.cs
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.csproj.CopyComplete
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.dll
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\refint\UMS.Persistence.dll
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.pdb
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\UMS.Persistence.genruntimeconfig.cache
+C:\Users\user\RiderProjects\UMS-Serilog\UMS.Persistence\obj\Debug\net6.0\ref\UMS.Persistence.dll
