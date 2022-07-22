@@ -1,0 +1,12 @@
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.deps.json
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.dll
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.pdb
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\obj\Debug\net6.0\UMS.Infrastructure.Abstraction.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\obj\Debug\net6.0\UMS.Infrastructure.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\obj\Debug\net6.0\UMS.Infrastructure.Abstraction.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\obj\Debug\net6.0\UMS.Infrastructure.Abstraction.AssemblyInfo.cs
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\obj\Debug\net6.0\UMS.Infrastructure.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\obj\Debug\net6.0\UMS.Infrastructure.Abstraction.dll
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\obj\Debug\net6.0\refint\UMS.Infrastructure.Abstraction.dll
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\obj\Debug\net6.0\UMS.Infrastructure.Abstraction.pdb
+C:\Users\user\RiderProjects\UMS - Serilog\UMS.Infrastructure.Abstraction\obj\Debug\net6.0\ref\UMS.Infrastructure.Abstraction.dll
