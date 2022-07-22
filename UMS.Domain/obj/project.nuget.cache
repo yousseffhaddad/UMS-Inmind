@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c3JaQAYBu6chao1vD3NU1/J8T0459EuwpMGgRdq9ddBePpjaupXGASdGk4+kFR4P0QttKZhkhnRd869A7P78Ww==",
+  "dgSpecHash": "SACcqghEiN3e2kZpmLwG1nwiry380+fGNCkas1oSi5d5X893BiJkk77nshYzfv6LOXDGCW8F+NVFNKFZ3dqBaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Domain\\UMS.Domain.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Domain\\UMS.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

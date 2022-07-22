@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oGhHNvBToAVapp9uvpx3+FI3PMX64xFLq6l8eYNatPpT7kA9IzeKfUje1baL6XDeKJZG6rGCZjpy6Fi22h5fRw==",
+  "dgSpecHash": "4F5MsHjfX8CgofrFVrCGf7xfqUZWJ9Cu3hutZvBbs7SGRsWu3nyfNPZnnemaYnK3qRd9ybdwhJNGMBXv3ukv9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS\\UMS.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS\\UMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -4181,11 +4181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS\\UMS.csproj",
+      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS\\UMS.csproj",
       "projectName": "UMS",
-      "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS\\UMS.csproj",
+      "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS\\UMS.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS\\obj\\",
+      "outputPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4200,11 +4200,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Application\\UMS.Application.csproj": {
-              "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Application\\UMS.Application.csproj"
+            "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Application\\UMS.Application.csproj": {
+              "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Application\\UMS.Application.csproj"
             },
-            "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure\\UMS.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure\\UMS.Infrastructure.csproj"
+            "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure\\UMS.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure\\UMS.Infrastructure.csproj"
             }
           }
         }

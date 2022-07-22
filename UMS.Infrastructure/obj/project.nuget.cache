@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T/VD4sKaG+eJtj2+Zxj6fcyORLI2HvMX81CL/BATWewoOvIA9MZYFJUIIQSGNcM+L8+yqsqCl4qAqVToCpeGqQ==",
+  "dgSpecHash": "UOM+HQJX1Qxuw8P6L3UFod7Ytq4vqS2Icwf6xMXjI6k/4oQ9YsyI7+3iIEAiXq/J2B+MWiUtNIUH7uvCno6EVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Infrastructure\\UMS.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Infrastructure\\UMS.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\mailkit\\3.3.0\\mailkit.3.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NzOnxuvGI/m1qSMKn5ORcsUtJ0U+vk2QEnRMfDnc80reIlo1SK2xN11xuB7HsG2W3rQeGfrhCYRYEwEbkvIVYA==",
+  "dgSpecHash": "xmRL7EOc7KNG5JHRhmcALpMPEk4Yvla6BFqGqhepmxWnY7AvsHxoO543qhxAVdUw3+4fR2O1uB6aSDAjlTexaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS - Serilog\\UMS.Application\\UMS.Application.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\UMS-Serilog\\UMS.Application\\UMS.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
