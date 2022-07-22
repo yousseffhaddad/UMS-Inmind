@@ -5,118 +5,7 @@
     <projectFile profileName="IIS Express">UMS/UMS.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cfa7db-616e-427d-8284-541d8d038467" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UMS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UMS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/Entities/StudentEnrollment/Commands/EnrollStudentCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/Entities/StudentEnrollment/Commands/EnrollStudentCommandHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Persistence.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/bin/Debug/net6.0/UMS.Persistence.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/UMS.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/ref/UMS.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/ref/UMS.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/refint/UMS.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/Debug/net6.0/refint/UMS.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/UMS.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/UMS.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/bin/Debug/net6.0/UMS.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/bin/Debug/net6.0/UMS.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/bin/Debug/net6.0/UMS.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/bin/Debug/net6.0/UMS.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/Debug/net6.0/UMS.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/UMS.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/UMS.Domain.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/UMS.Infrastructure.Abstraction.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/UMS.Infrastructure.Abstraction.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure.Abstraction/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/bin/Debug/net6.0/UMS.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/bin/Debug/net6.0/UMS.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/bin/Debug/net6.0/UMS.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/bin/Debug/net6.0/UMS.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/Debug/net6.0/UMS.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/UMS.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/UMS.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/bin/Debug/net6.0/UMS.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/bin/Debug/net6.0/UMS.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/bin/Debug/net6.0/UMS.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/bin/Debug/net6.0/UMS.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/bin/Debug/net6.0/UMS.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/bin/Debug/net6.0/UMS.Persistence.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/bin/Debug/net6.0/UMS.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/bin/Debug/net6.0/UMS.Persistence.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/Debug/net6.0/UMS.Persistence.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/UMS.Persistence.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/UMS.Persistence.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS.Persistence/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UMS.Persistence/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Infrastructure.Abstraction.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Persistence.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.Persistence.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/bin/Debug/net6.0/UMS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/UMS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/ref/UMS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/ref/UMS.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/refint/UMS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/Debug/net6.0/refint/UMS.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/UMS.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/UMS.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UMS/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/UMS/obj/staticwebassets.pack.sentinel" afterDir="false" />
-    </list>
+    <list default="true" id="b6cfa7db-616e-427d-8284-541d8d038467" name="Changes" comment="Add Get Students By Course Id" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,6 +17,9 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/user/RiderProjects/UMS-Serilog/UMS.Application/Entities/StudentEnrollment/Commands/EnrollStudentCommandHandler.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -201,8 +93,16 @@
       <workItem from="1658128766342" duration="22065000" />
       <workItem from="1658351310412" duration="2050000" />
       <workItem from="1658427198224" duration="4150000" />
-      <workItem from="1658470881435" duration="4966000" />
+      <workItem from="1658470881435" duration="5344000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Get Students By Course Id">
+      <created>1658476112952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658476112952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,5 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add Get Students By Course Id" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Get Students By Course Id" />
   </component>
 </project>
